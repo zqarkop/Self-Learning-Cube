@@ -1,4 +1,4 @@
-# Self Learning Cube (SLC) - Projek Akhir Embedded System Universitas Sultan Ageng Tirtayasa
+# Self Learning Cube (SLC) - Final Project Embedded System Universitas Sultan Ageng Tirtayasa
 
 ## Description
 This porject using RFID Reader RC522 to identify RFID Card that has an image on it, then the ID will be forwardded to the ESP8266 to identify what the picture is and then make a sound to describe the picture. This project can also perform arithmetic operations to help children learnning mathematics by its self.
